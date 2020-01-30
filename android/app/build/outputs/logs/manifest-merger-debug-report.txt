@@ -1,0 +1,229 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/pedro.weber/Projetos/listaCompras/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /Users/pedro.weber/Projetos/listaCompras/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /Users/pedro.weber/Projetos/listaCompras/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /Users/pedro.weber/Projetos/listaCompras/android/app/src/main/AndroidManifest.xml:1:1-26:12
+MERGED from /Users/pedro.weber/Projetos/listaCompras/android/app/src/main/AndroidManifest.xml:1:1-26:12
+MERGED from [:react-native-reanimated] /Users/pedro.weber/Projetos/listaCompras/node_modules/react-native-reanimated/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-gesture-handler] /Users/pedro.weber/Projetos/listaCompras/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [com.facebook.react:react-native:0.61.2] /Users/pedro.weber/.gradle/caches/transforms-2/files-2.1/1881f31cb9bd115e5b1233ac949f95a5/AndroidManifest.xml:2:1-13:12
+MERGED from [org.webkit:android-jsc:r245459] /Users/pedro.weber/.gradle/caches/transforms-2/files-2.1/ed945b1083ebee9147b0ec68f4dbb186/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.transition:transition:1.1.0] /Users/pedro.weber/.gradle/caches/transforms-2/files-2.1/2c0c889536fee5b7b049bcdeaf98d321/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.appcompat:appcompat:1.0.2] /Users/pedro.weber/.gradle/caches/transforms-2/files-2.1/0f8bd2d6ff58f260960b9fdff6ee752e/AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:fresco:2.0.0] /Users/pedro.weber/.gradle/caches/transforms-2/files-2.1/2696a849ac811af797457263531c46ba/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /Users/pedro.weber/.gradle/caches/transforms-2/files-2.1/8aebd3d9e68263b20f38066b726cdf4a/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:drawee:2.0.0] /Users/pedro.weber/.gradle/caches/transforms-2/files-2.1/7769a7e5f3b4e197fadae1dfd4ca862e/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] /Users/pedro.weber/.gradle/caches/transforms-2/files-2.1/8a2b52c14b8f5bdf64ba78fcfb68a4e0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] /Users/pedro.weber/.gradle/caches/transforms-2/files-2.1/93972eb3118e5d1b29bd393e668bf804/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] /Users/pedro.weber/.gradle/caches/transforms-2/files-2.1/8eccf17980d2e39453f3b74413a158f1/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] /Users/pedro.weber/.gradle/caches/transforms-2/files-2.1/8917f9a5f92026ae81dea90f992a34be/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/pedro.weber/.gradle/caches/transforms-2/files-2.1/3c1917776870e450ca522631f779adb3/AndroidManifest.xml:2:1-13:12
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/pedro.weber/.gradle/caches/transforms-2/files-2.1/c22bb91d1978fdbf0dea050a7a868acc/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/pedro.weber/.gradle/caches/transforms-2/files-2.1/c0ba2272c7241debd01151675bc7b6d7/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/pedro.weber/.gradle/caches/transforms-2/files-2.1/9732eaee7acb6acdfad25632f21ac732/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/pedro.weber/.gradle/caches/transforms-2/files-2.1/86770dd929519e9ec74f43cb4aceaa34/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /Users/pedro.weber/.gradle/caches/transforms-2/files-2.1/6c02935d66351c2d8b54f3040bbdb141/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/pedro.weber/.gradle/caches/transforms-2/files-2.1/c90e263b907f7a99b9efbc850f49c883/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/pedro.weber/.gradle/caches/transforms-2/files-2.1/5470c8838828a424048336e9eb09ea22/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/pedro.weber/.gradle/caches/transforms-2/files-2.1/12d4c4833f7713dc6798684cb4345d00/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/pedro.weber/.gradle/caches/transforms-2/files-2.1/e589af8898d751279b88246773ba9edb/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/pedro.weber/.gradle/caches/transforms-2/files-2.1/c5372019cb1d68d6aa4e90fb7f3a45c2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/pedro.weber/.gradle/caches/transforms-2/files-2.1/aa00a528b3e3e0eb2fc89dc6183459d3/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/pedro.weber/.gradle/caches/transforms-2/files-2.1/6e62539dfd94c66919d8b1dc6f8a8f27/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/pedro.weber/.gradle/caches/transforms-2/files-2.1/5461a1567878785367245a455fbf5149/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.0.1] /Users/pedro.weber/.gradle/caches/transforms-2/files-2.1/d5ab8ffd124c682890de1cb96ce3649f/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/pedro.weber/.gradle/caches/transforms-2/files-2.1/e979995c5fc6c18698209089ee9bc977/AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/pedro.weber/.gradle/caches/transforms-2/files-2.1/7080a0515fdfa1a36a2995243f2dd54d/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/pedro.weber/.gradle/caches/transforms-2/files-2.1/f5ee3cfeab54cc09ed4c61bd5a6b6566/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/pedro.weber/.gradle/caches/transforms-2/files-2.1/d1c94f3fd248435aaceda2ff91c32395/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/pedro.weber/.gradle/caches/transforms-2/files-2.1/9d581baedf603d4d06d032f5bdbffc61/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/pedro.weber/.gradle/caches/transforms-2/files-2.1/e7d982ca32ab850495beca8fbf334a7f/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/pedro.weber/.gradle/caches/transforms-2/files-2.1/fd68bf81e18c072be968671c33121bf5/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/pedro.weber/.gradle/caches/transforms-2/files-2.1/e998c7b586446fd03819698c39a62a04/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/pedro.weber/.gradle/caches/transforms-2/files-2.1/5225d4c563a1d9e66ad48464a212b0ec/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/pedro.weber/.gradle/caches/transforms-2/files-2.1/e0ab4a86c9aa65c0cb771b622a166937/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/pedro.weber/.gradle/caches/transforms-2/files-2.1/2fbbd104e3c73832dc318ac2ba4ba6af/AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:fbcore:2.0.0] /Users/pedro.weber/.gradle/caches/transforms-2/files-2.1/42ea0f5fe1630375c8e62f81e931d223/AndroidManifest.xml:2:1-9:12
+INJECTED from /Users/pedro.weber/Projetos/listaCompras/android/app/src/debug/AndroidManifest.xml:2:1-8:12
+INJECTED from /Users/pedro.weber/Projetos/listaCompras/android/app/src/debug/AndroidManifest.xml:2:1-8:12
+INJECTED from /Users/pedro.weber/Projetos/listaCompras/android/app/src/debug/AndroidManifest.xml:2:1-8:12
+	package
+		ADDED from /Users/pedro.weber/Projetos/listaCompras/android/app/src/main/AndroidManifest.xml:2:3-29
+		INJECTED from /Users/pedro.weber/Projetos/listaCompras/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/pedro.weber/Projetos/listaCompras/android/app/src/main/AndroidManifest.xml:2:3-29
+		INJECTED from /Users/pedro.weber/Projetos/listaCompras/android/app/src/debug/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/pedro.weber/Projetos/listaCompras/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/pedro.weber/Projetos/listaCompras/android/app/src/main/AndroidManifest.xml:1:1-26:12
+		INJECTED from /Users/pedro.weber/Projetos/listaCompras/android/app/src/debug/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /Users/pedro.weber/Projetos/listaCompras/android/app/src/debug/AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from /Users/pedro.weber/Projetos/listaCompras/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/pedro.weber/Projetos/listaCompras/android/app/src/main/AndroidManifest.xml:1:1-26:12
+		INJECTED from /Users/pedro.weber/Projetos/listaCompras/android/app/src/debug/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/pedro.weber/Projetos/listaCompras/android/app/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/pedro.weber/Projetos/listaCompras/android/app/src/main/AndroidManifest.xml:4:5-67
+	android:name
+		ADDED from /Users/pedro.weber/Projetos/listaCompras/android/app/src/main/AndroidManifest.xml:4:22-64
+application
+ADDED from /Users/pedro.weber/Projetos/listaCompras/android/app/src/main/AndroidManifest.xml:6:5-24:19
+MERGED from /Users/pedro.weber/Projetos/listaCompras/android/app/src/main/AndroidManifest.xml:6:5-24:19
+MERGED from /Users/pedro.weber/Projetos/listaCompras/android/app/src/main/AndroidManifest.xml:6:5-24:19
+MERGED from [com.facebook.react:react-native:0.61.2] /Users/pedro.weber/.gradle/caches/transforms-2/files-2.1/1881f31cb9bd115e5b1233ac949f95a5/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.react:react-native:0.61.2] /Users/pedro.weber/.gradle/caches/transforms-2/files-2.1/1881f31cb9bd115e5b1233ac949f95a5/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/pedro.weber/.gradle/caches/transforms-2/files-2.1/3c1917776870e450ca522631f779adb3/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/pedro.weber/.gradle/caches/transforms-2/files-2.1/3c1917776870e450ca522631f779adb3/AndroidManifest.xml:11:5-20
+MERGED from [androidx.core:core:1.0.1] /Users/pedro.weber/.gradle/caches/transforms-2/files-2.1/d5ab8ffd124c682890de1cb96ce3649f/AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.0.1] /Users/pedro.weber/.gradle/caches/transforms-2/files-2.1/d5ab8ffd124c682890de1cb96ce3649f/AndroidManifest.xml:22:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/pedro.weber/.gradle/caches/transforms-2/files-2.1/e979995c5fc6c18698209089ee9bc977/AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/pedro.weber/.gradle/caches/transforms-2/files-2.1/e979995c5fc6c18698209089ee9bc977/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.0.1] /Users/pedro.weber/.gradle/caches/transforms-2/files-2.1/d5ab8ffd124c682890de1cb96ce3649f/AndroidManifest.xml:22:18-86
+	android:label
+		ADDED from /Users/pedro.weber/Projetos/listaCompras/android/app/src/main/AndroidManifest.xml:8:7-39
+		ADDED from /Users/pedro.weber/Projetos/listaCompras/android/app/src/main/AndroidManifest.xml:8:7-39
+	tools:ignore
+		ADDED from /Users/pedro.weber/Projetos/listaCompras/android/app/src/debug/AndroidManifest.xml:7:75-114
+	android:roundIcon
+		ADDED from /Users/pedro.weber/Projetos/listaCompras/android/app/src/main/AndroidManifest.xml:10:7-52
+		ADDED from /Users/pedro.weber/Projetos/listaCompras/android/app/src/main/AndroidManifest.xml:10:7-52
+	tools:targetApi
+		ADDED from /Users/pedro.weber/Projetos/listaCompras/android/app/src/debug/AndroidManifest.xml:7:54-74
+	android:icon
+		ADDED from /Users/pedro.weber/Projetos/listaCompras/android/app/src/main/AndroidManifest.xml:9:7-41
+		ADDED from /Users/pedro.weber/Projetos/listaCompras/android/app/src/main/AndroidManifest.xml:9:7-41
+	android:allowBackup
+		ADDED from /Users/pedro.weber/Projetos/listaCompras/android/app/src/main/AndroidManifest.xml:11:7-34
+		ADDED from /Users/pedro.weber/Projetos/listaCompras/android/app/src/main/AndroidManifest.xml:11:7-34
+	android:theme
+		ADDED from /Users/pedro.weber/Projetos/listaCompras/android/app/src/main/AndroidManifest.xml:12:7-38
+		ADDED from /Users/pedro.weber/Projetos/listaCompras/android/app/src/main/AndroidManifest.xml:12:7-38
+	android:usesCleartextTraffic
+		ADDED from /Users/pedro.weber/Projetos/listaCompras/android/app/src/debug/AndroidManifest.xml:7:18-53
+	android:name
+		ADDED from /Users/pedro.weber/Projetos/listaCompras/android/app/src/main/AndroidManifest.xml:7:7-38
+		ADDED from /Users/pedro.weber/Projetos/listaCompras/android/app/src/main/AndroidManifest.xml:7:7-38
+activity#com.listacompras.MainActivity
+ADDED from /Users/pedro.weber/Projetos/listaCompras/android/app/src/main/AndroidManifest.xml:13:7-22:18
+	android:label
+		ADDED from /Users/pedro.weber/Projetos/listaCompras/android/app/src/main/AndroidManifest.xml:15:9-41
+	android:windowSoftInputMode
+		ADDED from /Users/pedro.weber/Projetos/listaCompras/android/app/src/main/AndroidManifest.xml:17:9-51
+	android:configChanges
+		ADDED from /Users/pedro.weber/Projetos/listaCompras/android/app/src/main/AndroidManifest.xml:16:9-79
+	android:name
+		ADDED from /Users/pedro.weber/Projetos/listaCompras/android/app/src/main/AndroidManifest.xml:14:9-37
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/pedro.weber/Projetos/listaCompras/android/app/src/main/AndroidManifest.xml:18:9-21:25
+action#android.intent.action.MAIN
+ADDED from /Users/pedro.weber/Projetos/listaCompras/android/app/src/main/AndroidManifest.xml:19:13-65
+	android:name
+		ADDED from /Users/pedro.weber/Projetos/listaCompras/android/app/src/main/AndroidManifest.xml:19:21-62
+category#android.intent.category.LAUNCHER
+ADDED from /Users/pedro.weber/Projetos/listaCompras/android/app/src/main/AndroidManifest.xml:20:13-73
+	android:name
+		ADDED from /Users/pedro.weber/Projetos/listaCompras/android/app/src/main/AndroidManifest.xml:20:23-70
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from /Users/pedro.weber/Projetos/listaCompras/android/app/src/main/AndroidManifest.xml:23:7-84
+	android:name
+		ADDED from /Users/pedro.weber/Projetos/listaCompras/android/app/src/main/AndroidManifest.xml:23:17-81
+uses-sdk
+INJECTED from /Users/pedro.weber/Projetos/listaCompras/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/pedro.weber/Projetos/listaCompras/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/pedro.weber/Projetos/listaCompras/android/app/src/main/AndroidManifest.xml
+MERGED from [:react-native-reanimated] /Users/pedro.weber/Projetos/listaCompras/node_modules/react-native-reanimated/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-reanimated] /Users/pedro.weber/Projetos/listaCompras/node_modules/react-native-reanimated/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-gesture-handler] /Users/pedro.weber/Projetos/listaCompras/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-gesture-handler] /Users/pedro.weber/Projetos/listaCompras/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.61.2] /Users/pedro.weber/.gradle/caches/transforms-2/files-2.1/1881f31cb9bd115e5b1233ac949f95a5/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.61.2] /Users/pedro.weber/.gradle/caches/transforms-2/files-2.1/1881f31cb9bd115e5b1233ac949f95a5/AndroidManifest.xml:7:5-9:41
+MERGED from [org.webkit:android-jsc:r245459] /Users/pedro.weber/.gradle/caches/transforms-2/files-2.1/ed945b1083ebee9147b0ec68f4dbb186/AndroidManifest.xml:7:5-9:41
+MERGED from [org.webkit:android-jsc:r245459] /Users/pedro.weber/.gradle/caches/transforms-2/files-2.1/ed945b1083ebee9147b0ec68f4dbb186/AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.transition:transition:1.1.0] /Users/pedro.weber/.gradle/caches/transforms-2/files-2.1/2c0c889536fee5b7b049bcdeaf98d321/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.1.0] /Users/pedro.weber/.gradle/caches/transforms-2/files-2.1/2c0c889536fee5b7b049bcdeaf98d321/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.2] /Users/pedro.weber/.gradle/caches/transforms-2/files-2.1/0f8bd2d6ff58f260960b9fdff6ee752e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.2] /Users/pedro.weber/.gradle/caches/transforms-2/files-2.1/0f8bd2d6ff58f260960b9fdff6ee752e/AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:fresco:2.0.0] /Users/pedro.weber/.gradle/caches/transforms-2/files-2.1/2696a849ac811af797457263531c46ba/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:2.0.0] /Users/pedro.weber/.gradle/caches/transforms-2/files-2.1/2696a849ac811af797457263531c46ba/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /Users/pedro.weber/.gradle/caches/transforms-2/files-2.1/8aebd3d9e68263b20f38066b726cdf4a/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /Users/pedro.weber/.gradle/caches/transforms-2/files-2.1/8aebd3d9e68263b20f38066b726cdf4a/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.0.0] /Users/pedro.weber/.gradle/caches/transforms-2/files-2.1/7769a7e5f3b4e197fadae1dfd4ca862e/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.0.0] /Users/pedro.weber/.gradle/caches/transforms-2/files-2.1/7769a7e5f3b4e197fadae1dfd4ca862e/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] /Users/pedro.weber/.gradle/caches/transforms-2/files-2.1/8a2b52c14b8f5bdf64ba78fcfb68a4e0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] /Users/pedro.weber/.gradle/caches/transforms-2/files-2.1/8a2b52c14b8f5bdf64ba78fcfb68a4e0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] /Users/pedro.weber/.gradle/caches/transforms-2/files-2.1/93972eb3118e5d1b29bd393e668bf804/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] /Users/pedro.weber/.gradle/caches/transforms-2/files-2.1/93972eb3118e5d1b29bd393e668bf804/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] /Users/pedro.weber/.gradle/caches/transforms-2/files-2.1/8eccf17980d2e39453f3b74413a158f1/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] /Users/pedro.weber/.gradle/caches/transforms-2/files-2.1/8eccf17980d2e39453f3b74413a158f1/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] /Users/pedro.weber/.gradle/caches/transforms-2/files-2.1/8917f9a5f92026ae81dea90f992a34be/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] /Users/pedro.weber/.gradle/caches/transforms-2/files-2.1/8917f9a5f92026ae81dea90f992a34be/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/pedro.weber/.gradle/caches/transforms-2/files-2.1/3c1917776870e450ca522631f779adb3/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/pedro.weber/.gradle/caches/transforms-2/files-2.1/3c1917776870e450ca522631f779adb3/AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/pedro.weber/.gradle/caches/transforms-2/files-2.1/c22bb91d1978fdbf0dea050a7a868acc/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/pedro.weber/.gradle/caches/transforms-2/files-2.1/c22bb91d1978fdbf0dea050a7a868acc/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/pedro.weber/.gradle/caches/transforms-2/files-2.1/c0ba2272c7241debd01151675bc7b6d7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/pedro.weber/.gradle/caches/transforms-2/files-2.1/c0ba2272c7241debd01151675bc7b6d7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/pedro.weber/.gradle/caches/transforms-2/files-2.1/9732eaee7acb6acdfad25632f21ac732/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/pedro.weber/.gradle/caches/transforms-2/files-2.1/9732eaee7acb6acdfad25632f21ac732/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/pedro.weber/.gradle/caches/transforms-2/files-2.1/86770dd929519e9ec74f43cb4aceaa34/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/pedro.weber/.gradle/caches/transforms-2/files-2.1/86770dd929519e9ec74f43cb4aceaa34/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /Users/pedro.weber/.gradle/caches/transforms-2/files-2.1/6c02935d66351c2d8b54f3040bbdb141/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /Users/pedro.weber/.gradle/caches/transforms-2/files-2.1/6c02935d66351c2d8b54f3040bbdb141/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/pedro.weber/.gradle/caches/transforms-2/files-2.1/c90e263b907f7a99b9efbc850f49c883/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/pedro.weber/.gradle/caches/transforms-2/files-2.1/c90e263b907f7a99b9efbc850f49c883/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/pedro.weber/.gradle/caches/transforms-2/files-2.1/5470c8838828a424048336e9eb09ea22/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/pedro.weber/.gradle/caches/transforms-2/files-2.1/5470c8838828a424048336e9eb09ea22/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/pedro.weber/.gradle/caches/transforms-2/files-2.1/12d4c4833f7713dc6798684cb4345d00/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/pedro.weber/.gradle/caches/transforms-2/files-2.1/12d4c4833f7713dc6798684cb4345d00/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/pedro.weber/.gradle/caches/transforms-2/files-2.1/e589af8898d751279b88246773ba9edb/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/pedro.weber/.gradle/caches/transforms-2/files-2.1/e589af8898d751279b88246773ba9edb/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/pedro.weber/.gradle/caches/transforms-2/files-2.1/c5372019cb1d68d6aa4e90fb7f3a45c2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/pedro.weber/.gradle/caches/transforms-2/files-2.1/c5372019cb1d68d6aa4e90fb7f3a45c2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/pedro.weber/.gradle/caches/transforms-2/files-2.1/aa00a528b3e3e0eb2fc89dc6183459d3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/pedro.weber/.gradle/caches/transforms-2/files-2.1/aa00a528b3e3e0eb2fc89dc6183459d3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/pedro.weber/.gradle/caches/transforms-2/files-2.1/6e62539dfd94c66919d8b1dc6f8a8f27/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/pedro.weber/.gradle/caches/transforms-2/files-2.1/6e62539dfd94c66919d8b1dc6f8a8f27/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/pedro.weber/.gradle/caches/transforms-2/files-2.1/5461a1567878785367245a455fbf5149/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/pedro.weber/.gradle/caches/transforms-2/files-2.1/5461a1567878785367245a455fbf5149/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] /Users/pedro.weber/.gradle/caches/transforms-2/files-2.1/d5ab8ffd124c682890de1cb96ce3649f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] /Users/pedro.weber/.gradle/caches/transforms-2/files-2.1/d5ab8ffd124c682890de1cb96ce3649f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/pedro.weber/.gradle/caches/transforms-2/files-2.1/e979995c5fc6c18698209089ee9bc977/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/pedro.weber/.gradle/caches/transforms-2/files-2.1/e979995c5fc6c18698209089ee9bc977/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/pedro.weber/.gradle/caches/transforms-2/files-2.1/7080a0515fdfa1a36a2995243f2dd54d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/pedro.weber/.gradle/caches/transforms-2/files-2.1/7080a0515fdfa1a36a2995243f2dd54d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/pedro.weber/.gradle/caches/transforms-2/files-2.1/f5ee3cfeab54cc09ed4c61bd5a6b6566/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/pedro.weber/.gradle/caches/transforms-2/files-2.1/f5ee3cfeab54cc09ed4c61bd5a6b6566/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/pedro.weber/.gradle/caches/transforms-2/files-2.1/d1c94f3fd248435aaceda2ff91c32395/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/pedro.weber/.gradle/caches/transforms-2/files-2.1/d1c94f3fd248435aaceda2ff91c32395/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/pedro.weber/.gradle/caches/transforms-2/files-2.1/9d581baedf603d4d06d032f5bdbffc61/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/pedro.weber/.gradle/caches/transforms-2/files-2.1/9d581baedf603d4d06d032f5bdbffc61/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/pedro.weber/.gradle/caches/transforms-2/files-2.1/e7d982ca32ab850495beca8fbf334a7f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/pedro.weber/.gradle/caches/transforms-2/files-2.1/e7d982ca32ab850495beca8fbf334a7f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/pedro.weber/.gradle/caches/transforms-2/files-2.1/fd68bf81e18c072be968671c33121bf5/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/pedro.weber/.gradle/caches/transforms-2/files-2.1/fd68bf81e18c072be968671c33121bf5/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/pedro.weber/.gradle/caches/transforms-2/files-2.1/e998c7b586446fd03819698c39a62a04/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/pedro.weber/.gradle/caches/transforms-2/files-2.1/e998c7b586446fd03819698c39a62a04/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/pedro.weber/.gradle/caches/transforms-2/files-2.1/5225d4c563a1d9e66ad48464a212b0ec/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/pedro.weber/.gradle/caches/transforms-2/files-2.1/5225d4c563a1d9e66ad48464a212b0ec/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/pedro.weber/.gradle/caches/transforms-2/files-2.1/e0ab4a86c9aa65c0cb771b622a166937/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/pedro.weber/.gradle/caches/transforms-2/files-2.1/e0ab4a86c9aa65c0cb771b622a166937/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/pedro.weber/.gradle/caches/transforms-2/files-2.1/2fbbd104e3c73832dc318ac2ba4ba6af/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/pedro.weber/.gradle/caches/transforms-2/files-2.1/2fbbd104e3c73832dc318ac2ba4ba6af/AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:fbcore:2.0.0] /Users/pedro.weber/.gradle/caches/transforms-2/files-2.1/42ea0f5fe1630375c8e62f81e931d223/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:2.0.0] /Users/pedro.weber/.gradle/caches/transforms-2/files-2.1/42ea0f5fe1630375c8e62f81e931d223/AndroidManifest.xml:5:5-7:41
+INJECTED from /Users/pedro.weber/Projetos/listaCompras/android/app/src/debug/AndroidManifest.xml
+INJECTED from /Users/pedro.weber/Projetos/listaCompras/android/app/src/debug/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/pedro.weber/Projetos/listaCompras/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/pedro.weber/Projetos/listaCompras/android/app/src/debug/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/pedro.weber/Projetos/listaCompras/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/pedro.weber/Projetos/listaCompras/android/app/src/debug/AndroidManifest.xml
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from /Users/pedro.weber/Projetos/listaCompras/android/app/src/debug/AndroidManifest.xml:5:5-77
+	android:name
+		ADDED from /Users/pedro.weber/Projetos/listaCompras/android/app/src/debug/AndroidManifest.xml:5:22-75
